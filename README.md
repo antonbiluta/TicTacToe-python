@@ -8,7 +8,7 @@
     ```
 2. Скачайте репозиторий с игрой или склонируйте его:
     ```bash
-    git clone https://github.com/antonbiluta/tictactoe-python.git
+    git clone https://github.com/antonbiluta/TicTacToe-python.git
     ```
 3. Запустите игру с помощью команды:
     ```bash
